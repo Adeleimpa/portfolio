@@ -92,7 +92,7 @@ header li {
 
 header a {
     display: block;
-    color: #3498db;
+    color: #292641ff;
     padding: 10px
 }
 
@@ -295,7 +295,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #a0cfee;
+    color: #292641ff;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
@@ -632,7 +632,7 @@ footer {
     border-radius: 4px;
     border: none;
     margin-bottom: 10px;
-    background: #F6D1ABff;
+    background: rgb(246, 187, 129);
     color: #fff;
     transition: .5s ease all
 }
@@ -677,7 +677,7 @@ footer {
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #3498db;
+    color: #292641ff;
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: .5s ease all
