@@ -97,14 +97,14 @@ header a {
 }
 
 header a:hover {
-    color: #217dbb;
+    color: rgb(246, 187, 129);
     text-decoration: none;
     background: #eee;
     border-radius: 4px
 }
 
 header a:focus {
-    color: #292641ff;
+    color: rgb(246, 187, 129);
     text-decoration: none
 }
 
@@ -180,7 +180,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #b9bfc4;
+    border: 3px solid #292641ff;
     text-align: center
 }
 
