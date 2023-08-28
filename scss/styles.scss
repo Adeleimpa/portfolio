@@ -38,8 +38,8 @@ $base-color: #3498db;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
-$background-alt: #f2f2f5;
+$background: #fae2c7;
+$background-alt: #fff4e6;
 
 // Define border colors
 $border: #dcd9d9;
@@ -393,7 +393,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba($base-color-hover, 0.8);
+    background: rgba(239, 170, 61, 0.8);
     z-index: 1;
 }
 
